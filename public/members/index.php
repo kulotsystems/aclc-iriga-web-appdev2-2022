@@ -37,6 +37,7 @@
     <!-- Add your personal PHP file from 'data' folder -->
     <!-- EXAMPLE -->
     <?php require_once 'data/arvic.php'; ?>
+	<?php require_once 'data\sarahmae.php'; ?>
 
     <!-- ADD IT HERE -->
     <?php // require_once ''; ?>
