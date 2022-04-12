@@ -38,6 +38,7 @@
     <!-- EXAMPLE -->
     <?php require_once 'data/arvic.php'; ?>
 	<?php require_once 'data\sarahmae.php'; ?>
+	<?php require_once 'data/ruel.php'; ?>
 
     <!-- ADD IT HERE -->
     <?php // require_once ''; ?>
