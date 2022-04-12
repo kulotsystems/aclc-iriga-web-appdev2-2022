@@ -10,7 +10,7 @@
         'gender'       => 'Female',
         'github' => [
             'username' => 'sarahmeeyy',
-            'avatar'   => 'https://avatars.githubusercontent.com/u/91459915?s=96&v=4'
+            'avatar'   => 'https://avatars.githubusercontent.com/u/91459915?v=4'
         ]
 
     ]);
