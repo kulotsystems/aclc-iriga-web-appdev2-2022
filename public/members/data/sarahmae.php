@@ -6,7 +6,7 @@
         'middle_name'  => 'Mujal',
         'last_name'    => 'Tuyay',
         'name_suffix'  => '',
-        'birth_date'   => '1999 05 03',
+        'birth_date'   => '1999-05-03',
         'gender'       => 'Female',
         'github' => [
             'username' => 'sarahmeeyy',
