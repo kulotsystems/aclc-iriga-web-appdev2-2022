@@ -16,7 +16,7 @@
     let right = $('.right');
 
     // generate member list
-    let list = "<h5><code class='text-success'>Members:</code></h5>";
+    let list = "<h5><code class='text-primary'>Members:</code></h5>";
     list += "<ul class='list-group'>";
     devs.forEach(function(dev, index) {
         list += "<li class='list-group-item member' data-index='" + index.toString() + "' style='cursor: pointer;'>" + (index + 1).toString() + ". " + dev.first_name + " " + dev.last_name + "</li>"
