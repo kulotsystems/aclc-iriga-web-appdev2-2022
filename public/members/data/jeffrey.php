@@ -6,7 +6,7 @@
         'middle_name'  => 'Villanueva',
         'last_name'    => 'Lagdaan',
         'name_suffix'  => '',
-        'birth_date'   => '2001,07,01',
+        'birth_date'   => '2001,01,07',
         'gender'       => 'Male',
         'github' => [
             'username' => 'jeffrey200107',
