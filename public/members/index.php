@@ -43,6 +43,8 @@
 	<?php require_once 'data/Jeffrey.php'; ?>
 	<?php require_once 'data/Gella.php'; ?>
 	<?php require_once 'data/pauline.php'; ?>
+	<?php require_once 'data/lucy.php'; ?>
+
     <!-- ADD IT HERE -->
     <?php // require_once ''; ?>
 
