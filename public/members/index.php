@@ -41,7 +41,8 @@
 	<?php require_once 'data/ruel.php'; ?>
 	<?php require_once 'data/lean.php'; ?>
 	<?php require_once 'data/Jeffrey.php'; ?>
-
+	<?php require_once 'data/Gella.php'; ?>
+	<?php require_once 'data/pauline.php'; ?>
     <!-- ADD IT HERE -->
     <?php // require_once ''; ?>
 
