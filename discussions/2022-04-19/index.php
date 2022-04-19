@@ -8,7 +8,8 @@
     $apple = new Fruit("RED", "MANSANAS");
     $apple->set_color("GREEN");
     echo $apple->get_color() . " " . $apple->get_name();
-
+    echo "<br>";
+    echo $apple::POINT_OF_ORIGIN;
     echo "<br>";
 
 
@@ -16,6 +17,8 @@
 
     $fruit2 = new Fruit("YELLOW", "BATAG");
     echo $fruit2->get_color() . " " . $fruit2->get_name();
+    echo "<br>";
+    echo $fruit2::POINT_OF_ORIGIN;
 
     echo "<hr>";
 
@@ -31,6 +34,9 @@
         . " " .
         $fruit3->get_shape()
         ;
+
+    echo "<br>";
+    echo Fruit::POINT_OF_ORIGIN;
 
 
 

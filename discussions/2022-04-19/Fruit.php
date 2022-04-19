@@ -6,6 +6,8 @@
         private $color;
         protected $shape;
 
+        const POINT_OF_ORIGIN = 'CHINA';
+
         // Constructor
         public function __construct($c, $n)
         {
