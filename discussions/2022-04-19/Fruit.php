@@ -2,24 +2,43 @@
 
     class Fruit {
         // Properties
-        public $name;
-        public $color;
+        private $name;
+        private $color;
+        protected $shape;
 
         // Constructor
-        function __construct($c, $n)
+        public function __construct($c, $n)
         {
             $this->color = $c;
             $this->name  = $n;
         }
 
         // Methods
-        function set_name($name)
+        public function set_name($n)
         {
-            $this->name = $name;
+            $this->name = $n;
         }
-        function get_name()
+        public function set_color($c)
+        {
+            $this->color = $c;
+        }
+        public function set_shape($s)
+        {
+            $this->shape = $s;
+        }
+
+
+        public function get_name()
         {
             return $this->name;
+        }
+        public function get_color()
+        {
+            return $this->color;
+        }
+        public function get_shape()
+        {
+            return $this->shape;
         }
     }
 

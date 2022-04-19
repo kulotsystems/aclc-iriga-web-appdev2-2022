@@ -2,16 +2,37 @@
 
     // import the class
     require_once 'Fruit.php';
+    require_once 'Citrus.php';
 
     // create an instance of the class
     $apple = new Fruit("RED", "MANSANAS");
+    $apple->set_color("GREEN");
+    echo $apple->get_color() . " " . $apple->get_name();
+
+    echo "<br>";
+
+
+    echo "<hr>";
 
     $fruit2 = new Fruit("YELLOW", "BATAG");
+    echo $fruit2->get_color() . " " . $fruit2->get_name();
 
-    // display some object properties
-    echo $apple->color . " " . $apple->name;
+    echo "<hr>";
 
-    echo '<br>';
+    $fruit3 = new Citrus("GREEN", "ORANGE");
 
-    echo $fruit2->color . " " . $fruit2->name;
+    $fruit3->set_color("GREEN");
+    $fruit3->set_name("LIMONSITO");
+    $fruit3->set_shape("SPHERE");
+
+    echo $fruit3->get_color()
+        . " " .
+        $fruit3->get_name()
+        . " " .
+        $fruit3->get_shape()
+        ;
+
+
+
+
 ?>
