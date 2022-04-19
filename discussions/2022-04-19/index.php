@@ -4,13 +4,9 @@
     require_once 'Fruit.php';
 
     // create an instance of the class
-    $apple = new Fruit();
-    $apple->color = "RED";
-    $apple->name  = "MANSANAS";
+    $apple = new Fruit("RED", "MANSANAS");
 
-    $fruit2 = new Fruit();
-    $fruit2->color = "YELLOW";
-    $fruit2->name  = "BATAG";
+    $fruit2 = new Fruit("YELLOW", "BATAG");
 
     // display some object properties
     echo $apple->color . " " . $apple->name;
