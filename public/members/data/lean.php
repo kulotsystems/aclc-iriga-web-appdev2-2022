@@ -10,7 +10,7 @@
         'gender'       => 'Male',
         'github' => [
             'username' => 'ljsarmiento',
-            'avatar'   => 'https://avatars.githubusercontent.com/u/103472931?v=4'
+            'avatar'   => 'https://avatars.githubusercontent.com/u/103472931?'
         ]
 
     ]);
