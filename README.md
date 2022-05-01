@@ -24,7 +24,9 @@ http://localhost/aclc-iriga-web-app-dev2-2022
 ```
 
 ### Contributing
-Using **GitHub Desktop**, create and checkout to your own branch and perform the following:
+Open this repository in your **GitHub Desktop** then create and checkout to your own branch.
+
+Then on your **IDE**, perform the following:
 
 Create your personal `php` file inside the `public/members/data` folder.
         <br>
