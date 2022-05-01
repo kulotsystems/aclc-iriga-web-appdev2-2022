@@ -24,6 +24,8 @@ http://localhost/aclc-iriga-web-app-dev2-2022
 ```
 
 ### Contributing
+Using **GitHub Desktop**, create and checkout to your own branch and perform the following:
+
 Create your personal `php` file inside the `public/members/data` folder.
         <br>
         Then, fill it up with your basic personal information as shown below:
@@ -67,4 +69,5 @@ After creating your own file, link it to the [public/members/index.php](public/m
 
 If you see your name on the list of members in your browser, you're good to go.
 
-#### You then need to push your changes to the online GitHub repository using **GitHub Desktop**.
+You then need to push your branch to the online GitHub repository using **GitHub Desktop**,
+then create a new **Pull Request**.
