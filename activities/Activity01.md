@@ -1,6 +1,6 @@
 ## Activity 01
 
-Download this Bootstrap template and convert it to your own CodeIgniter4 project named "blog"
+Download this Bootstrap template and convert it to your own CodeIgniter4 project named `blog`.
 
 <https://startbootstrap.com/theme/clean-blog>
 
