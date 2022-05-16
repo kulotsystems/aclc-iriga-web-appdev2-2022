@@ -45,6 +45,7 @@
 	<?php require_once 'data/pauline.php'; ?>
 	<?php require_once 'data/lucy.php'; ?>
 	<?php require_once 'data/Ron.php'; ?>
+	<?php require_once 'data/Michael.php'; ?>
 
     <!-- ADD IT HERE -->
     <?php // require_once ''; ?>
