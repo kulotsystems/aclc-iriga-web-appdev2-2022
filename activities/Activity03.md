@@ -10,7 +10,7 @@
    
 3. Access `/public/data/members.json` and move your data on top.
 
-   For example, if you are [@PaulinePomasin18](https://github.com/PaulinePomasin18), your `members.json` will look like the following:
+   For example, if you are [@PaulinePomasin18](https://github.com/PaulinePomasin18), your `members.json` should look something like this:
    
    ```json
    {
@@ -56,6 +56,13 @@
 * Observe the routing and behavior of the website.
 * Download and use this CSS stylesheet: <https://www.kulotsystems.tech/css/devs.css>
 * Inspect Element
+
+If you don't see your name in the JSON file, follow these steps to generate a new one:
+1. Perform the [Practice GitHub Collaboration](https://github.com/kulotsystems/aclc-iriga-web-app-dev2-2022)
+in our repository.
+2. `require_once` your personal `php` file inside `/public/members/data/json/index.php`.
+3. Access <http://localhost/aclc-iriga-web-app-dev2-2022/public/members/data/json> in your browser.
+4. Access and copy the generated JSON file in `/public/members/data/json/members.json`.
 
 #### GRADING
 Your work will be rated using a value from `0` to `100`.
