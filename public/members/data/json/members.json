@@ -1,0 +1,122 @@
+{
+    "arvic": {
+        "first_name": "Arvic",
+        "middle_name": "Salcedo",
+        "last_name": "Babol",
+        "name_suffix": "",
+        "birth_date": "1993-03-28",
+        "gender": "Male",
+        "github": {
+            "username": "kulotsystems",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/78327825?v=4"
+        }
+    },
+    "sarah-mae": {
+        "first_name": "Sarah Mae",
+        "middle_name": "Mujal",
+        "last_name": "Tuyay",
+        "name_suffix": "",
+        "birth_date": "1999-05-03",
+        "gender": "Female",
+        "github": {
+            "username": "sarahmeeyy",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/91459915?v=4"
+        }
+    },
+    "ruel": {
+        "first_name": "Ruel",
+        "middle_name": "Flor",
+        "last_name": "Perez",
+        "name_suffix": "",
+        "birth_date": "2001-10-7",
+        "gender": "Male",
+        "github": {
+            "username": "ruelperez",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/91463583?s=400&u=215cb48fe5e38cf6d463ae88285220b9a6167e63&v=4"
+        }
+    },
+    "lean-joshua": {
+        "first_name": "Lean Joshua",
+        "middle_name": "Tercenio",
+        "last_name": "Sarmiento",
+        "name_suffix": "",
+        "birth_date": "2001-04-24",
+        "gender": "Male",
+        "github": {
+            "username": "ljsarmiento",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/103472931?"
+        }
+    },
+    "jeffrey": {
+        "first_name": "Jeffrey",
+        "middle_name": "Villanueva",
+        "last_name": "Lagdaan",
+        "name_suffix": "",
+        "birth_date": "2001-01-07",
+        "gender": "Male",
+        "github": {
+            "username": "jeffrey200107",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/103405944?v=4"
+        }
+    },
+    "gella-mae": {
+        "first_name": "Gella Mae",
+        "middle_name": "Mesuga",
+        "last_name": "Ongog",
+        "name_suffix": "",
+        "birth_date": "1999-07-23",
+        "gender": "Female",
+        "github": {
+            "username": "Gellayy23",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/103555642?v=4"
+        }
+    },
+    "pauline-danielle": {
+        "first_name": "Pauline Danielle",
+        "middle_name": "Cagnayo",
+        "last_name": "Pomasin",
+        "name_suffix": "",
+        "birth_date": "1999-10-18",
+        "gender": "Female",
+        "github": {
+            "username": "PaulinePomasin18",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/103513364?s=400&u=0440c0b393000c77907779332f6772d9ddb0ab0f&v=4"
+        }
+    },
+    "lucy": {
+        "first_name": "Lucy",
+        "middle_name": "Estela",
+        "last_name": "Magistrado",
+        "name_suffix": "",
+        "birth_date": "2000-10-1",
+        "gender": "Female",
+        "github": {
+            "username": "lucymagis",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/103977056?v=4"
+        }
+    },
+    "ron-andrew": {
+        "first_name": "Ron andrew",
+        "middle_name": "Sesno",
+        "last_name": "Villaluz",
+        "name_suffix": "",
+        "birth_date": "1998-03-29",
+        "gender": "Male",
+        "github": {
+            "username": "Villaluz",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/103405962?s=400&u=f14469f6581d4b1a5bcedef552eb01de35cd1644&v=4"
+        }
+    },
+    "michael": {
+        "first_name": "Michael",
+        "middle_name": "Breza",
+        "last_name": "Pe\u00f1aflor",
+        "name_suffix": "",
+        "birth_date": "1999-05-08",
+        "gender": "Male",
+        "github": {
+            "username": "Maykel69",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/91442360?v=4"
+        }
+    }
+}
