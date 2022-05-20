@@ -10,7 +10,7 @@
    
 3. Access `/public/data/members.json` and move your data on top.
 
-   For example, if you are @PaulinePomasin18, your `members.json` will look like the following:
+   For example, if you are [@PaulinePomasin18](https://github.com/PaulinePomasin18), your `members.json` will look like the following:
    
    ```json
    {
