@@ -55,7 +55,7 @@
 #### TIPS
 * Observe the routing and behavior of the website.
 * Download and use this CSS stylesheet: <https://www.kulotsystems.tech/css/devs.css>
-   
+* Inspect Element
 
 #### GRADING
 Your work will be rated using a value from `0` to `100`.
