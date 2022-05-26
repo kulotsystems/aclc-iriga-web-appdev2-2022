@@ -21,6 +21,7 @@
     require_once '../lucy.php';
     require_once '../Ron.php';
     require_once '../Michael.php';
+    require_once '../johnbern.php';
 
     for($i=0; $i<sizeof($members); $i++) {
         $member = $members[$i];

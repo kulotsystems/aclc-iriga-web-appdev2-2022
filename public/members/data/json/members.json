@@ -118,5 +118,17 @@
             "username": "Maykel69",
             "avatar": "https:\/\/avatars.githubusercontent.com\/u\/91442360?v=4"
         }
+    },
+    "john-bern": {
+        "first_name": "John Bern",
+        "middle_name": "Pe\u00f1alosa",
+        "last_name": "Bolo",
+        "name_suffix": "",
+        "birth_date": "2000-10-8",
+        "gender": "Male",
+        "github": {
+            "username": "johnbernbolo",
+            "avatar": "https:\/\/avatars.githubusercontent.com\/u\/105410210?v=4"
+        }
     }
 }
